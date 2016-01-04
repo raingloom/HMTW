@@ -1,3 +1,9 @@
 [submodule "lib/middleclass"]
 	path = lib/middleclass
 	url = https://github.com/kikito/middleclass.git
+[submodule "lib/gamma-th"]
+	path = lib/gamma-th
+	url = https://github.com/raingloom/gamma-th.git
+[submodule "lib/math"]
+	path = lib/math
+	url = https://github.com/raingloom/gamma-th.git
